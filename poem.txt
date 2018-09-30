@@ -1,8 +1,10 @@
 The Rainbow
-
+---------------
 purple
 pink
 orange
 blue
+green
 red
+---------------
 these are the color
