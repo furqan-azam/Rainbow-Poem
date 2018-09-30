@@ -8,7 +8,8 @@ unicorn
 green
 yellow
 red
-ponies
+indigo
 ---------------
 these are the color
 and the uncorn
+Pony
