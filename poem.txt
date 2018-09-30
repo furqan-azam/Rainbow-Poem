@@ -8,6 +8,7 @@ unicorn
 green
 yellow
 red
+indigo
 ---------------
 these are the color
 and the uncorn
